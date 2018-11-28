@@ -1,0 +1,9 @@
+{
+    "frameworks": {
+        "net46": {
+            "dependencies": {
+                "System.IO.Compression": "4.3.0"
+            }
+        }
+    }
+}
